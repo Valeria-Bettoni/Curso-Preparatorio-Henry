@@ -1,2 +1,3 @@
 Variable: Es un espacio en la memoria al que le ponemos un nombre, en ella podemos guardar datos y modificarlos o acceder a ellos por su nombre.
 String: Es un tipo de dato que almacena palabras, oraciones o caracteres
+Funcion: Realiza una tarea o calcula un valor, es decir, retorna algo. Algunas funciones requieren argumentos que utilizan dentro de ellas para calcular el valor a retornar 
