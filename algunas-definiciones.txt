@@ -1,1 +1,2 @@
 Variable: Es un espacio en la memoria al que le ponemos un nombre, en ella podemos guardar datos y modificarlos o acceder a ellos por su nombre.
+String: Es un tipo de dato que almacena palabras, oraciones o caracteres
