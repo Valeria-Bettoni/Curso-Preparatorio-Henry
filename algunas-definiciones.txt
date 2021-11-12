@@ -2,3 +2,4 @@ Variable: Es un espacio en la memoria al que le ponemos un nombre, en ella podem
 String: Es un tipo de dato que almacena palabras, oraciones o caracteres
 Funcion: Realiza una tarea o calcula un valor, es decir, retorna algo. Algunas funciones requieren argumentos que utilizan dentro de ellas para calcular el valor a retornar 
 Declaracion if: Es una estructura condicional. Significa que si se cumple cierta condicion, la funcion retornará algo, sino, retornará algo distinto. Ejemplo: if (tengo sueño) return dormir else return seguirJugando
+Valores booleanos (true y false): Significan verdadero y falso respectivamente. Son un tipo de datos que puede ser devuelto o usado por una funcion
